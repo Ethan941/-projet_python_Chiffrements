@@ -12,3 +12,6 @@ texte_chiffre = "ixlev"
 for key in range(1, 26):  # de 1 à 25 inclus
     resultat = dechiffre_cesar(texte_chiffre, key)
     print(f"Clé {key} : {resultat}")
+
+
+

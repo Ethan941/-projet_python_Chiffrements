@@ -8,4 +8,3 @@ def chiffre_cesar(text, key):#deffiniton de la fonction text + la clé
 
 print(chiffre_cesar("ethan", 4))
 
-
