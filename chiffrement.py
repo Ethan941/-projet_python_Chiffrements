@@ -7,3 +7,5 @@ def chiffre_cesar(text, key):#deffiniton de la fonction text + la clé
     return crypted_text
 
 print(chiffre_cesar("ethan", 4))
+
+
